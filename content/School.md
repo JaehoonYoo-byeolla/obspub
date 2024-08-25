@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 ```dataview
 table School
 from "4. Archieve/학교"
