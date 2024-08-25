@@ -9,10 +9,7 @@ draft: false
 Hello! Thank you for visiting this homepage.
 
   
-
-# About me
-
-In Fall 2024, I will be a first year Ph.d student in mathematics at Indina University Bloomington.
+In Fall 2024, I am a first year Ph.d student in mathematics at Indina University Bloomington.
 
   
 
@@ -35,7 +32,6 @@ Low-dimensional Topology & Knot theory, especially 3 or 4-dimensional topology.
 # Preprint
 
 1. Non-split alternating links bound unique minimal genus Seifert surfaces up to isotopy in the 4-ball (with Seungwon Kim and Maggie Miller)
-
 [arXiv](https://arxiv.org/abs/2406.11718) [slide](../talk_pdf/Seifert_surface_for_alternating_links_slide.pdf)
 
   
